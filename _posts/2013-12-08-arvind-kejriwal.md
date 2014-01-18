@@ -14,13 +14,13 @@ I belong from a city named Jodhpur located in state Rajasthan, but it was not Ra
 
 For the rare ones, who are wondering who is Arvind Kejriwal, and why is he so important to this guy, let me tell you in brief:
 
-![Arvind Kejriwal](https://github.com/ArpitJalan/arpitjalan.github.com/raw/master/images/kejriwal-solo.jpg "Arvind Kejriwal")
+![Arvind Kejriwal](https://github.com/ArpitJalan/arpitjalan.github.com/raw/master/assets/images/kejriwal-solo.jpg "Arvind Kejriwal")
 
 Arvind Kejriwal is a graduate of Indian Institute of Technology, Kharagpur. He is a former Indian Revenue Service (IRS) officer and former Joint Commissioner in the Income Tax Department. In 2006, he resigned from IRS, to work full time as social activist. In 2012, he launched Aam Aadmi Party (AAP), to clean the corruption, widespread in Indian Politics.
 
 While his educational qualifications and prestigious job aside (even though I can't deny that they sure do matter), the man struck a chord with me when he actively participitated (and was the part of core team) in the India Against Corruption (IAC) movement, that movement was the most striking movement I witnessed in my life, millions of people joined hands to declare their dissatifaction against corruption widespread in Indian Political System, and it made me feel that something big is about to happen, people do have power to revolutionalize the system, I knew why democracy is so important that day.
 
-![India Against Corruption](https://github.com/ArpitJalan/arpitjalan.github.com/raw/master/images/iac.jpg "India Against Corruption")
+![India Against Corruption](https://github.com/ArpitJalan/arpitjalan.github.com/raw/master/assets/images/iac.jpg "India Against Corruption")
 
 While the IAC movement was hugely successful but Mr. Kejriwal realised that to bring complete change in Poltics and to remove corruption from its root, he had to enter in Politics himself. It was a very bold decision and was accepted very crtically by core team of IAC itself, but Mr. Kejriwal knew that it needs to be done, to see the change he wanted to see and to visualize the dream he had for better India.
 
@@ -32,7 +32,7 @@ While I was writing this article, I heard the live press conference of Mr. Kejri
 
 > AAP party asked for Rs. 20 crore donation, and after fulfilling the goal of Rs. 20 crore, the party rejected to accept any more donation. I think it's the first time in history that any political party rejected to accept donation before election and provided the detailed analysis of the whereabouts of donation expenditure.
 
-![A Wednesday](https://github.com/ArpitJalan/arpitjalan.github.com/raw/master/images/a-wednesday.jpg "A Wednesday")
+![A Wednesday](https://github.com/ArpitJalan/arpitjalan.github.com/raw/master/assets/images/a-wednesday.jpg "A Wednesday")
 
 Until now we only used to see this in Indian Cinemas (Nayak, A Wednesday) that how a common man (Aam Aadmi) can change the system and show the real power of Aam Aadmi, but I think we all can agree now that it's possible in real life too.
 
