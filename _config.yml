@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        /:title
+
+# Setup
+title:            Arpit Jalan
+tagline:          'Stay Hungry. Stay Foolish. Stay Angry.'
+description:      "Hello, I'm Arpit Jalan. I am an Electrical Engineer by Graduation & Software Engineer by Passion."
+url:              http://techapj.com
+logo:			  '/images/profile.jpg'
+paginate:         20
+
+# Custom vars
+author:
+  name:         'Arpit Jalan'
+  url:          http://techapj.com
+  twitter:      https://twitter.com/techAPJ
+  github:       https://github.com/techAPJ
+  google_plus:	https://twitter.com/techapj
+
+version:          1.0.0

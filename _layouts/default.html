@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="home-template">
+
+    <!-- Sidebar -->
+    {% include sidebar.html %}
+    <label for="sidebar-checkbox" class="sidebar-toggle"><i class="fa fa-cloud-download fa-2x"></i></label>
+    <!-- Sidebar -->
+
+    {{ content }}
+
+    {% include footer.html %}
+
+  </body>
+</html>
