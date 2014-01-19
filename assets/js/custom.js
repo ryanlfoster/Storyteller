@@ -1,5 +1,5 @@
 /**
- * Main JS file for Casper behaviours
+ * Main JS file for The Storyteller behaviours
  */
 
 /*globals jQuery, document */
@@ -7,9 +7,7 @@
     "use strict";
 
     $(document).ready(function(){
-
         $(".post-content").fitVids();
-
     });
 
 	// Medium inspiried fade on sliding effect
