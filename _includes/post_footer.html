@@ -1,0 +1,38 @@
+<footer class="post-footer">
+  <!-- If we want to display author's name and bio -->
+    {% if site.author %}
+        <section class="author">
+          <article>
+            <!-- Author Name -->
+              <h4> {{ site.author.name }} </h4>
+              <!-- Author Bio -->
+              <p> {{ site.description }} </p>
+            </article>
+        </section>                
+    {% endif %}
+
+    <section class="share">
+        <h4>Follow</h4>
+        <a href="{{ site.author.twitter }}" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
+        <a href="{{ site.author.github }}" target="_blank"><i class="fa fa-github-alt fa-2x"></i></a>
+    </section>
+    
+    {% if page.disqus %}
+    <section class="disqus">
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+
+        var disqus_shortname = 'techapj'; 
+        var disqus_developer = 0; // developer mode is on
+          (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </section>
+    {% endif %}
+
+</footer>
