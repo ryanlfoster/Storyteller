@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: "About"
+description: "Arpit Jalan"
 cover: "/assets/images/typewriter.jpg"
 ---
 
