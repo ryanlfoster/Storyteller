@@ -5,7 +5,7 @@ description: "Arpit Jalan"
 cover: "/assets/images/typewriter.jpg"
 ---
 
-Hello, I'm Arpit Jalan. I am an Electrical Engineer by Graduation & Software Engineer by Passion
+Hello, I'm Arpit Jalan. I am an Electrical Engineer by Graduation & Software Engineer by Passion.
 
 I [Code](https://github.com/techAPJ "Code") and [Tweet](https://twitter.com/techAPJ "Tweet").
 
