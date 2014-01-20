@@ -14,7 +14,7 @@
 	$(window).scroll(function(){
 	    var top = ($(window).scrollTop() > 0) ? $(window).scrollTop() : 1;
 	    $('.fade').stop(true, true).fadeTo(0, 100 / top);
-	    $('.fade').css('top', top * 0.25);
+	    $('.fade').css('top', top * 0.10);
 	});
 
 }(jQuery));
