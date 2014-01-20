@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "About"
-description: "Arpit Jalan"
-cover: "/assets/images/typewriter.jpg"
+title: About
+description: "Storyteller"
 ---
 
-Hello, I'm Arpit Jalan. I am an Electrical Engineer by Graduation & Software Engineer by Passion.
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-I [Code](https://github.com/techAPJ "Code") and [Tweet](https://twitter.com/techAPJ "Tweet").
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/techAPJ/Storyteller/) or [ask me on Twitter](https://twitter.com/techAPJ).
 
-I know this page is bit short, but I intend to document my life's journey on this blog, so it's a work under progress.
+Thanks for reading!

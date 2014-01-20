@@ -6,18 +6,18 @@ pygments:         true
 permalink:        /:title
 
 # Setup
-title:            Arpit Jalan
-tagline:          'Stay Hungry. Stay Foolish. Stay Angry.'
-description:      "Hello, I'm Arpit Jalan. I am an Electrical Engineer by Graduation & Software Engineer by Passion."
+title:            Storyteller
+tagline:          'Beautiful storytelling experience.'
+description:      'Because everyone has a story to tell.'
 url:              http://techapj.com
 logo:			  '/images/profile.jpg'
 paginate:         20
 
 # Custom vars
 author:
-  name:         'Arpit Jalan'
-  twitter:      https://twitter.com/techAPJ
-  github:       https://github.com/techAPJ
-  google_plus:	https://plus.google.com/102518914636222601781?rel=author
+  name:         'Storyteller'
+  twitter:      https://twitter.com/
+  github:       https://github.com/
+  google_plus:	https://plus.google.com/
 
 version:          1.0.0
