@@ -12,7 +12,7 @@ Want to see something else added? <a href="https://github.com/techAPJ/Storytelle
 
 The source code is hosted on [Github](https://github.com/techAPJ/Storyteller/ "Github"). The license for this theme, as for Ghost is MIT.
 
-**Storyteller** is mainly inspired from [Ghost](https://ghost.org/ "Ghost") , and further inspiration came from [Medium](https://ghost.org/ "Medium").
+**Storyteller** is mainly inspired from [Ghost](https://ghost.org/ "Ghost") , and further inspiration came from [Medium](https://medium.com/ "Medium").
 
 ## License
 
